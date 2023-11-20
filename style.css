@@ -19,8 +19,7 @@
     display: inline-block;
 }
 
-
 li{
     display: inline;
-    here bullet points are ignored by our browser bcz in inline tag the bullet is not apply in content. 
+    /* here bullet points are ignored by our browser bcz in inline tag the bullet is not apply in content.  */
 }
