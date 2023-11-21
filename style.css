@@ -37,9 +37,23 @@ li{
 .Heading:hover{
     box-shadow: 3px 3px 12px rgb(255, 132, 0);
     transition: ease-in-out;
-    transition-delay: 2s;
+    
 }
 .para1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-shadow: 2px 2px 10px orange;
+}
+.para2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 2px 2px 10px orange;
+    margin-top: 10px;
+}
+
+.btn{
+    margin-top: 10px;
+    background-color: orange;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 100px;
 }
