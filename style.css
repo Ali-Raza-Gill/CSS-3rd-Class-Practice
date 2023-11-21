@@ -33,5 +33,13 @@ li{
 .Heading::first-letter{
     color: rgb(255, 136, 0);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+}
+.Heading:hover{
+    box-shadow: 3px 3px 12px rgb(255, 132, 0);
+    transition: ease-in-out;
+    transition-delay: 2s;
+}
+.para1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 2px 2px 10px orange;
 }
